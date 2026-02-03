@@ -1,0 +1,16 @@
+.env
+__pycache__/
+.venv/
+node_modules/
+dist/
+build/
+
+# Local data and generated assets
+backend/Papers/
+backend/chroma_papers/
+backend/visuals/
+chroma_papers/
+Papers/
+visuals/
+*.sqlite3
+*.bin

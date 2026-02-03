@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-text-splitters
+ipython
+langchain_openai
+langchain-ollama
+langchain_community
+dotenv
+typing
+chromadb
+langchain_chroma
+pymupdf
+fastapi
+uvicorn
+python-multipart
