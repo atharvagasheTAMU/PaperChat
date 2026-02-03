@@ -2,6 +2,11 @@
 
 ![Demo](assets/demo.gif)
 
+<p align="center">
+  <img src="assets/langgraph.png" alt="LangGraph graph" />
+</p>
+<p align="center">Agent workflow (LangGraph)</p>
+
 A web app that lets you upload research PDFs, ask questions about them, and (when relevant) shows figures/tables alongside the answers.
 
 ## Features
